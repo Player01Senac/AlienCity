@@ -5,8 +5,9 @@ Testes de AlienCity:
 
 000001 
 Player da cena aba inspector 
-Adicionar um Capsule Collider ao Player. 
 <p />
+Adicionar um Capsule Collider ao Player. 
+
 
 000002 
 Retirar a câmera do player e realizar programação 
