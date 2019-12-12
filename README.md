@@ -2,7 +2,7 @@
 Testes de AlienCity*:
 <p />
 
-** *Os itens em negrito tem prioridade alta
+__*Os itens em negrito tem prioridade alta__
 
 
 
