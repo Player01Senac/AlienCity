@@ -10,14 +10,21 @@ Testes de AlienCity*:
 **Player da cena aba inspector.**
 
 <p />
+
 **Adicionar um Capsule Collider ao Player.** 
+
 <p />
 
 **000002**
+
 <p />
+
 **Retirar a câmera do player e realizar programação.**
+
 <p />
+
 **Retirar a câmera do Player e realizar programação, para a mesma seguir o Player.**
+
 <p />
 
 000003
@@ -37,10 +44,15 @@ Deixar os Colliders dos Espinhos do chão mais proximos a ponta do espinho, para
 
 
 **000005**
+
 <p />
+
 **Ligar o Mesh Collider o chao04.**
+
 <p />
+
 **Ligar o MeshCollider no chao04, pela aba inspector.**
+
 <p />
 
 
@@ -69,10 +81,15 @@ Criar animação para PortaFundo, para quando o Player encontrar a chave e arrum
 
 
 **000009**
+
 <p />
+
 **Criar e adicionar um GameObject, para servir de Chave, para o encerramento da fase e adicionar o script ChaveEncontrada no mesmo.**
+
 <p />
+
 **Adicionar ao final da fase, para que a porta abra.**
+
 <p />
 
 
@@ -80,7 +97,7 @@ Criar animação para PortaFundo, para quando o Player encontrar a chave e arrum
 <p />
 Realizar alterações no script OpenTheDoors.
 <p />
-Retirar o ontrigger enter e adicionar uma verificação via Update com if chave == true? Seta a animação a bool do animator Chave para true. 
+Retirar o ontrigger enter e adicionar uma verificação via Update com if chave == true? Seta a animação a bool do animator Chave para /true. 
 <p />
 
 
