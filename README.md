@@ -4,18 +4,18 @@ Testes de AlienCity*:
 
 
 
-**000001
+**000001**
 <p />
-Player da cena aba inspector.
+**Player da cena aba inspector.**
 <p />
-Adicionar um Capsule Collider ao Player.** 
+**Adicionar um Capsule Collider ao Player.** 
 <p />
 
-**000002
+**000002**
 <p />
-Retirar a câmera do player e realizar programação.
+**Retirar a câmera do player e realizar programação.**
 <p />
-Retirar a câmera do Player e realizar programação, para a mesma seguir o Player.**
+**Retirar a câmera do Player e realizar programação, para a mesma seguir o Player.**
 <p />
 
 000003
@@ -34,11 +34,11 @@ Deixar os Colliders dos Espinhos do chão mais proximos a ponta do espinho, para
 <p />
 
 
-**000005
+**000005**
 <p />
-Ligar o Mesh Collider o chao04.
+**Ligar o Mesh Collider o chao04.**
 <p />
-Ligar o MeshCollider no chao04, pela aba inspector.**
+**Ligar o MeshCollider no chao04, pela aba inspector.**
 <p />
 
 
@@ -66,11 +66,11 @@ Criar animação para PortaFundo, para quando o Player encontrar a chave e arrum
 <p />
 
 
-000009 
+**000009**
 <p />
-Criar e adicionar um GameObject, para servir de Chave, para o encerramento da fase e adicionar o script ChaveEncontrada no mesmo.
+**Criar e adicionar um GameObject, para servir de Chave, para o encerramento da fase e adicionar o script ChaveEncontrada no mesmo.**
 <p />
-Adicionar ao final da fase, para que a porta abra. 
+**Adicionar ao final da fase, para que a porta abra.**
 <p />
 
 
